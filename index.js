@@ -13,7 +13,7 @@ function generateMeta() {
 console.time("Build in");
 
 rollup({
-    input: "./tests/test-plugin/index.js",
+    input: path.resolve(plugin, "index.js"),
     output: {
         format: "commonjs",
         exports: "auto",
