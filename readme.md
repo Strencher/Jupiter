@@ -1,5 +1,5 @@
 # Jupiter WIP
-> A @Powercord plugin compiler to @BetterDiscord plugins.
+A compiler to change a [Powercord](https://github.com/powercord-org/) plugin to a [BetterDiscord](https://github.com/BetterDiscord/) plugin.
 ## Requirements
 * NodeJS
 * Npm package manager (npm, pnpm, yarn)
